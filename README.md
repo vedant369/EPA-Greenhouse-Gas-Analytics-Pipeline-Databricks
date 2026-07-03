@@ -69,27 +69,6 @@ Ranked counties by total CO₂e emissions to identify major industrial emission 
 > https://dbc-5afaa35e-c5cb.cloud.databricks.com/sql/dashboardsv3/01f1766d4ef31e5b865ff33a099e61a1/pages/e9542fb7?o=7474644341410126
 
 > **Note:** A Databricks Community/Free Edition account is required to access the live dashboard.
-
-### Dashboard Screenshot
-
-![Dashboard Preview](images/dashboard_screenshot.png)
-
----
-
-## 📂 Repository Structure
-
-```text
-.
-├── sql/
-│   ├── geospatial_analysis.sql
-│   ├── state_analysis.sql
-│   ├── county_analysis.sql
-│   └── per_capita_analysis.sql
-├── images/
-│   └── dashboard_screenshot.png
-└── README.md
-```
-
 ---
 
 ## 📌 Key Insights
